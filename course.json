@@ -1,0 +1,32 @@
+{
+  "course_id": "ICB-A12",
+  "repository": "icb-a12-workforce-planning-skills-credential-data",
+  "repository_url": "https://github.com/ICoBC/icb-a12-workforce-planning-skills-credential-data",
+  "title": "Workforce Planning with Skills and Credential Data",
+  "subtitle": "From credential data to workforce decisions.",
+  "version": "1.0.0",
+  "series": "Advanced",
+  "skill": "Skills-based talent practice",
+  "level": "4",
+  "level_name": "Assure",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-TALN-L4-A",
+  "badge_name": "Workforce Planning with Skills and Credential Data (Ability, L4)",
+  "hours": "10",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-a12/",
+  "parts": [
+    "About this course",
+    "Skills data",
+    "Gap analysis",
+    "Job architecture",
+    "Governance",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 16
+}
